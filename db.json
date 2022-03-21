@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "6235c6b329304e7d07efed66",
+    "to": 23,
+    "from": 18,
+    "store": {
+      "city": "Cecilia",
+      "name": "Chavez",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b3de8e5ed57432c256"
+    },
+    "totale": 122813,
+    "products": {
+      "sku": 7517,
+      "name": "Vincent",
+      "salePrice": 58.78
+    },
+    "totalPages": 23282,
+    "currentPage": 713
+  },
+  {
+    "id": "6235c6b3cd6b0095f2beadc4",
+    "to": 15,
+    "from": 18,
+    "store": {
+      "city": "Saticoy",
+      "name": "Medina",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b3cc19aa0fc7dc5b32"
+    },
+    "totale": 170890,
+    "products": {
+      "sku": 3971,
+      "name": "Le",
+      "salePrice": 18.33
+    },
+    "totalPages": 5676,
+    "currentPage": 501
+  },
+  {
+    "id": "6235c6b3a578b245c610f1af",
+    "to": 22,
+    "from": 20,
+    "store": {
+      "city": "Graniteville",
+      "name": "Garza",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b31188547c4158585e"
+    },
+    "totale": 14844,
+    "products": {
+      "sku": 8962,
+      "name": "Sears",
+      "salePrice": 15.86
+    },
+    "totalPages": 35158,
+    "currentPage": 413
+  },
+  {
+    "id": "6235c6b395e267d6504973fd",
+    "to": 22,
+    "from": 14,
+    "store": {
+      "city": "Elfrida",
+      "name": "Ball",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b3481e55a14002546e"
+    },
+    "totale": 13621,
+    "products": {
+      "sku": 3850,
+      "name": "Barron",
+      "salePrice": 4.78
+    },
+    "totalPages": 33949,
+    "currentPage": 146
+  },
+  {
+    "id": "6235c6b3d9e9d695ae7a7620",
+    "to": 14,
+    "from": 15,
+    "store": {
+      "city": "Longoria",
+      "name": "Mueller",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b3103ed0c76358f041"
+    },
+    "totale": 127263,
+    "products": {
+      "sku": 2561,
+      "name": "Glover",
+      "salePrice": 57.54
+    },
+    "totalPages": 39776,
+    "currentPage": 549
+  },
+  {
+    "id": "6235c6b349762390542e53fc",
+    "to": 21,
+    "from": 8,
+    "store": {
+      "city": "Coleville",
+      "name": "Lewis",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b3d8e4e162084a10c7"
+    },
+    "totale": 42434,
+    "products": {
+      "sku": 7735,
+      "name": "Lindsay",
+      "salePrice": 16.09
+    },
+    "totalPages": 22821,
+    "currentPage": 509
+  },
+  {
+    "id": "6235c6b3545fa7216d538b26",
+    "to": 17,
+    "from": 27,
+    "store": {
+      "city": "Cotopaxi",
+      "name": "Stevenson",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b39b30b007e31f5698"
+    },
+    "totale": 224643,
+    "products": {
+      "sku": 3430,
+      "name": "Hoover",
+      "salePrice": 55.65
+    },
+    "totalPages": 23081,
+    "currentPage": 182
+  },
+  {
+    "id": "6235c6b318ce026afdcde29f",
+    "to": 30,
+    "from": 23,
+    "store": {
+      "city": "Nile",
+      "name": "Humphrey",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b3cfcf5b1c1932ee04"
+    },
+    "totale": 7426,
+    "products": {
+      "sku": 7843,
+      "name": "Collier",
+      "salePrice": 41.99
+    },
+    "totalPages": 38403,
+    "currentPage": 783
+  },
+  {
+    "id": "6235c6b346f8f107a7b1745d",
+    "to": 30,
+    "from": 18,
+    "store": {
+      "city": "Waterview",
+      "name": "Baxter",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b362110fb2edf0e64a"
+    },
+    "totale": 23051,
+    "products": {
+      "sku": 6488,
+      "name": "Sosa",
+      "salePrice": 54.75
+    },
+    "totalPages": 27787,
+    "currentPage": 959
+  },
+  {
+    "id": "6235c6b325b08bd1c94ca689",
+    "to": 26,
+    "from": 21,
+    "store": {
+      "city": "Starks",
+      "name": "Leach",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b3310e8ccd30953201"
+    },
+    "totale": 6702,
+    "products": {
+      "sku": 3378,
+      "name": "Rice",
+      "salePrice": 57.79
+    },
+    "totalPages": 32720,
+    "currentPage": 953
+  },
+  {
+    "id": "6235c6b3f5495123662304d4",
+    "to": 23,
+    "from": 3,
+    "store": {
+      "city": "Edgewater",
+      "name": "Kaufman",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b343f781fedea4b614"
+    },
+    "totale": 293508,
+    "products": {
+      "sku": 6448,
+      "name": "Michael",
+      "salePrice": 52.69
+    },
+    "totalPages": 1680,
+    "currentPage": 675
+  },
+  {
+    "id": "6235c6b3409b8b55052f22c3",
+    "to": 14,
+    "from": 18,
+    "store": {
+      "city": "Lookingglass",
+      "name": "Glass",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b368b4957c9cd80840"
+    },
+    "totale": 20652,
+    "products": {
+      "sku": 4391,
+      "name": "Rose",
+      "salePrice": 86.09
+    },
+    "totalPages": 30812,
+    "currentPage": 842
+  },
+  {
+    "id": "6235c6b3615ce718c1ec8f09",
+    "to": 23,
+    "from": 28,
+    "store": {
+      "city": "Efland",
+      "name": "Mckenzie",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b31886dfef571ea91d"
+    },
+    "totale": 219936,
+    "products": {
+      "sku": 1646,
+      "name": "Lancaster",
+      "salePrice": 13.56
+    },
+    "totalPages": 9383,
+    "currentPage": 209
+  },
+  {
+    "id": "6235c6b30d405c2c02440d17",
+    "to": 25,
+    "from": 7,
+    "store": {
+      "city": "Norvelt",
+      "name": "Nieves",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b3970d5ca563a9d751"
+    },
+    "totale": 12169,
+    "products": {
+      "sku": 5361,
+      "name": "Stout",
+      "salePrice": 80.49
+    },
+    "totalPages": 7036,
+    "currentPage": 500
+  },
+  {
+    "id": "6235c6b3d618494415fa7406",
+    "to": 12,
+    "from": 8,
+    "store": {
+      "city": "Marienthal",
+      "name": "Meyers",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b316d0c2477878463f"
+    },
+    "totale": 226596,
+    "products": {
+      "sku": 8393,
+      "name": "Shepherd",
+      "salePrice": 75.73
+    },
+    "totalPages": 22253,
+    "currentPage": 908
+  },
+  {
+    "id": "6235c6b38229ed50bae4ad4a",
+    "to": 10,
+    "from": 27,
+    "store": {
+      "city": "Bordelonville",
+      "name": "Figueroa",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b3bb0218d93b5cd9a1"
+    },
+    "totale": 165429,
+    "products": {
+      "sku": 6301,
+      "name": "Price",
+      "salePrice": 74.76
+    },
+    "totalPages": 3193,
+    "currentPage": 308
+  },
+  {
+    "id": "6235c6b3f363432a75c11cec",
+    "to": 18,
+    "from": 5,
+    "store": {
+      "city": "Gilgo",
+      "name": "Odom",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b331531a6976568e14"
+    },
+    "totale": 74951,
+    "products": {
+      "sku": 4691,
+      "name": "Juarez",
+      "salePrice": 85.05
+    },
+    "totalPages": 19666,
+    "currentPage": 507
+  },
+  {
+    "id": "6235c6b341722e03a9d2598c",
+    "to": 20,
+    "from": 25,
+    "store": {
+      "city": "Swartzville",
+      "name": "Norris",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b32117198bd3e71a84"
+    },
+    "totale": 116146,
+    "products": {
+      "sku": 6725,
+      "name": "Reilly",
+      "salePrice": 63.34
+    },
+    "totalPages": 5036,
+    "currentPage": 803
+  },
+  {
+    "id": "6235c6b3329c8ca90a515a44",
+    "to": 27,
+    "from": 12,
+    "store": {
+      "city": "Leming",
+      "name": "Swanson",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b30040d34969668e5b"
+    },
+    "totale": 127841,
+    "products": {
+      "sku": 4270,
+      "name": "Rocha",
+      "salePrice": 21.13
+    },
+    "totalPages": 26152,
+    "currentPage": 961
+  },
+  {
+    "id": "6235c6b3d9cbbf1e19037e39",
+    "to": 13,
+    "from": 2,
+    "store": {
+      "city": "Dennard",
+      "name": "Bean",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b3c1f472bf6a3da41d"
+    },
+    "totale": 204090,
+    "products": {
+      "sku": 4208,
+      "name": "Cherry",
+      "salePrice": 82.82
+    },
+    "totalPages": 34877,
+    "currentPage": 752
+  },
+  {
+    "id": "6235c6b32196d1c856460677",
+    "to": 25,
+    "from": 2,
+    "store": {
+      "city": "Movico",
+      "name": "Dillon",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b37658726706537f19"
+    },
+    "totale": 14542,
+    "products": {
+      "sku": 3904,
+      "name": "Jacobson",
+      "salePrice": 10.41
+    },
+    "totalPages": 32708,
+    "currentPage": 694
+  },
+  {
+    "id": "6235c6b3de9d43439face2dc",
+    "to": 13,
+    "from": 28,
+    "store": {
+      "city": "Woodlands",
+      "name": "Gross",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b356adfcccd32f9af0"
+    },
+    "totale": 272454,
+    "products": {
+      "sku": 2172,
+      "name": "Henderson",
+      "salePrice": 32.61
+    },
+    "totalPages": 24445,
+    "currentPage": 661
+  },
+  {
+    "id": "6235c6b35b3c81eb9155ba7d",
+    "to": 27,
+    "from": 25,
+    "store": {
+      "city": "Vernon",
+      "name": "Sexton",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b36b7c17302a68160a"
+    },
+    "totale": 74928,
+    "products": {
+      "sku": 4284,
+      "name": "Talley",
+      "salePrice": 9.14
+    },
+    "totalPages": 10974,
+    "currentPage": 212
+  },
+  {
+    "id": "6235c6b397d47e863090c419",
+    "to": 21,
+    "from": 2,
+    "store": {
+      "city": "Winfred",
+      "name": "Charles",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b38a8f085dc301a509"
+    },
+    "totale": 242508,
+    "products": {
+      "sku": 5279,
+      "name": "Potts",
+      "salePrice": 78.71
+    },
+    "totalPages": 25442,
+    "currentPage": 761
+  },
+  {
+    "id": "6235c6b30b38d2315ff6d8be",
+    "to": 25,
+    "from": 12,
+    "store": {
+      "city": "Leland",
+      "name": "Tran",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b3fbc28dceeb913693"
+    },
+    "totale": 243269,
+    "products": {
+      "sku": 3427,
+      "name": "Sharpe",
+      "salePrice": 4.87
+    },
+    "totalPages": 14244,
+    "currentPage": 356
+  },
+  {
+    "id": "6235c6b3b6536c12d734cfbe",
+    "to": 28,
+    "from": 5,
+    "store": {
+      "city": "Byrnedale",
+      "name": "Mills",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b3112c75a79b29aefc"
+    },
+    "totale": 187734,
+    "products": {
+      "sku": 8289,
+      "name": "Pacheco",
+      "salePrice": 88.61
+    },
+    "totalPages": 31490,
+    "currentPage": 993
+  },
+  {
+    "id": "6235c6b37071db66aa328d5a",
+    "to": 26,
+    "from": 23,
+    "store": {
+      "city": "Deputy",
+      "name": "Floyd",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b384509941ac6c6d8d"
+    },
+    "totale": 161579,
+    "products": {
+      "sku": 7869,
+      "name": "Hebert",
+      "salePrice": 7.02
+    },
+    "totalPages": 12496,
+    "currentPage": 483
+  },
+  {
+    "id": "6235c6b3d704551c5f9b615d",
+    "to": 22,
+    "from": 4,
+    "store": {
+      "city": "Madrid",
+      "name": "Conner",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b3e8f6c1e35bc265da"
+    },
+    "totale": 213040,
+    "products": {
+      "sku": 6110,
+      "name": "Arnold",
+      "salePrice": 61.16
+    },
+    "totalPages": 6227,
+    "currentPage": 135
+  },
+  {
+    "id": "6235c6b3288a950e764eea30",
+    "to": 13,
+    "from": 2,
+    "store": {
+      "city": "Jackpot",
+      "name": "Byrd",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b3bf14423050c0fe17"
+    },
+    "totale": 208657,
+    "products": {
+      "sku": 4338,
+      "name": "Moon",
+      "salePrice": 85.25
+    },
+    "totalPages": 4599,
+    "currentPage": 374
+  },
+  {
+    "id": "6235c6b3cb8abab6ebf09712",
+    "to": 24,
+    "from": 18,
+    "store": {
+      "city": "Makena",
+      "name": "Baird",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b3718263e8fd62499b"
+    },
+    "totale": 108250,
+    "products": {
+      "sku": 7264,
+      "name": "Beach",
+      "salePrice": 41.06
+    },
+    "totalPages": 39262,
+    "currentPage": 954
+  },
+  {
+    "id": "6235c6b3fcba2d7b6294a609",
+    "to": 21,
+    "from": 19,
+    "store": {
+      "city": "Tedrow",
+      "name": "Ramirez",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b3edb7c77f120d3db5"
+    },
+    "totale": 54578,
+    "products": {
+      "sku": 4854,
+      "name": "Cross",
+      "salePrice": 76.22
+    },
+    "totalPages": 33223,
+    "currentPage": 898
+  },
+  {
+    "id": "6235c6b304cec9fbbb23197c",
+    "to": 28,
+    "from": 27,
+    "store": {
+      "city": "Edmund",
+      "name": "Stokes",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b3976c27279eaded3e"
+    },
+    "totale": 238672,
+    "products": {
+      "sku": 3472,
+      "name": "Graham",
+      "salePrice": 79.99
+    },
+    "totalPages": 36643,
+    "currentPage": 478
+  },
+  {
+    "id": "6235c6b3668345a39ca09d90",
+    "to": 24,
+    "from": 4,
+    "store": {
+      "city": "Datil",
+      "name": "Mayo",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b366cffa6f7516f844"
+    },
+    "totale": 170143,
+    "products": {
+      "sku": 5124,
+      "name": "Rodgers",
+      "salePrice": 57.66
+    },
+    "totalPages": 38992,
+    "currentPage": 56
+  },
+  {
+    "id": "6235c6b3b24027106c020967",
+    "to": 12,
+    "from": 5,
+    "store": {
+      "city": "Falconaire",
+      "name": "Mccarthy",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b347ad4b6c26c4c257"
+    },
+    "totale": 245533,
+    "products": {
+      "sku": 5054,
+      "name": "Long",
+      "salePrice": 65.52
+    },
+    "totalPages": 31397,
+    "currentPage": 607
+  },
+  {
+    "id": "6235c6b32725441562fe7e24",
+    "to": 28,
+    "from": 16,
+    "store": {
+      "city": "Allensworth",
+      "name": "Patel",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b36871da0f68108a3e"
+    },
+    "totale": 31958,
+    "products": {
+      "sku": 3312,
+      "name": "Serrano",
+      "salePrice": 14.89
+    },
+    "totalPages": 34332,
+    "currentPage": 186
+  },
+  {
+    "id": "6235c6b315be6ae2d36aeb05",
+    "to": 18,
+    "from": 3,
+    "store": {
+      "city": "Boonville",
+      "name": "Rivers",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b36d65efe8473cc2d2"
+    },
+    "totale": 241625,
+    "products": {
+      "sku": 8603,
+      "name": "Lamb",
+      "salePrice": 12.97
+    },
+    "totalPages": 4435,
+    "currentPage": 370
+  },
+  {
+    "id": "6235c6b3acceb14ee1a60474",
+    "to": 13,
+    "from": 7,
+    "store": {
+      "city": "Vincent",
+      "name": "Smith",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b3bba06acbbf3345d3"
+    },
+    "totale": 151365,
+    "products": {
+      "sku": 4446,
+      "name": "Moreno",
+      "salePrice": 17.79
+    },
+    "totalPages": 38732,
+    "currentPage": 623
+  },
+  {
+    "id": "6235c6b347edbb906694f63c",
+    "to": 17,
+    "from": 13,
+    "store": {
+      "city": "Enlow",
+      "name": "Rojas",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b353c43addb284a654"
+    },
+    "totale": 108919,
+    "products": {
+      "sku": 8786,
+      "name": "Casey",
+      "salePrice": 82.42
+    },
+    "totalPages": 29459,
+    "currentPage": 913
+  },
+  {
+    "id": "6235c6b30224e10747277e8e",
+    "to": 26,
+    "from": 6,
+    "store": {
+      "city": "Sims",
+      "name": "Blackwell",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b3ce1364ac6e36ab6b"
+    },
+    "totale": 98782,
+    "products": {
+      "sku": 7846,
+      "name": "Grimes",
+      "salePrice": 67.08
+    },
+    "totalPages": 1291,
+    "currentPage": 380
+  },
+  {
+    "id": "6235c6b3db7b2c59284cf4bd",
+    "to": 25,
+    "from": 26,
+    "store": {
+      "city": "Columbus",
+      "name": "Trevino",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b3d81c4f7e30062def"
+    },
+    "totale": 223226,
+    "products": {
+      "sku": 4193,
+      "name": "Anderson",
+      "salePrice": 48.62
+    },
+    "totalPages": 28794,
+    "currentPage": 775
+  },
+  {
+    "id": "6235c6b32a31ef32a1fd6131",
+    "to": 27,
+    "from": 22,
+    "store": {
+      "city": "Emison",
+      "name": "Lester",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b3994feb16fde7820c"
+    },
+    "totale": 172554,
+    "products": {
+      "sku": 4238,
+      "name": "Dean",
+      "salePrice": 38.97
+    },
+    "totalPages": 16488,
+    "currentPage": 217
+  },
+  {
+    "id": "6235c6b33ded5eb9a7ff1151",
+    "to": 10,
+    "from": 16,
+    "store": {
+      "city": "Weogufka",
+      "name": "Hester",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b3f3d5147a09db61c1"
+    },
+    "totale": 69056,
+    "products": {
+      "sku": 1280,
+      "name": "Patterson",
+      "salePrice": 80.72
+    },
+    "totalPages": 26362,
+    "currentPage": 891
+  },
+  {
+    "id": "6235c6b3818d3e1848378135",
+    "to": 12,
+    "from": 28,
+    "store": {
+      "city": "Diaperville",
+      "name": "Gibbs",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b3cc961c04f1f1429f"
+    },
+    "totale": 20378,
+    "products": {
+      "sku": 1875,
+      "name": "Houston",
+      "salePrice": 28.93
+    },
+    "totalPages": 8619,
+    "currentPage": 892
+  },
+  {
+    "id": "6235c6b3419848e4bb2a5cca",
+    "to": 21,
+    "from": 29,
+    "store": {
+      "city": "Tilden",
+      "name": "Justice",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b30e1aff642e78ceb2"
+    },
+    "totale": 200308,
+    "products": {
+      "sku": 7574,
+      "name": "Fulton",
+      "salePrice": 60.38
+    },
+    "totalPages": 22767,
+    "currentPage": 247
+  },
+  {
+    "id": "6235c6b3321a8fa78e06cf70",
+    "to": 13,
+    "from": 22,
+    "store": {
+      "city": "Muse",
+      "name": "Steele",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b369a2762c8629f3f5"
+    },
+    "totale": 105455,
+    "products": {
+      "sku": 8349,
+      "name": "Goodwin",
+      "salePrice": 53.68
+    },
+    "totalPages": 39119,
+    "currentPage": 907
+  },
+  {
+    "id": "6235c6b3cccab43614fc906d",
+    "to": 15,
+    "from": 23,
+    "store": {
+      "city": "Temperanceville",
+      "name": "Horn",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b3934fc4086a6792f6"
+    },
+    "totale": 210091,
+    "products": {
+      "sku": 4899,
+      "name": "Drake",
+      "salePrice": 18.17
+    },
+    "totalPages": 24541,
+    "currentPage": 402
+  },
+  {
+    "id": "6235c6b3f19308140ab2f719",
+    "to": 27,
+    "from": 6,
+    "store": {
+      "city": "Groveville",
+      "name": "Mercado",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b3c2fb8e135eaa491f"
+    },
+    "totale": 293955,
+    "products": {
+      "sku": 3730,
+      "name": "Jackson",
+      "salePrice": 63.92
+    },
+    "totalPages": 38468,
+    "currentPage": 331
+  },
+  {
+    "id": "6235c6b395d47799d59f7cd6",
+    "to": 24,
+    "from": 5,
+    "store": {
+      "city": "Bannock",
+      "name": "Manning",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b338558fc9b45c79f9"
+    },
+    "totale": 140568,
+    "products": {
+      "sku": 7811,
+      "name": "Lott",
+      "salePrice": 76.57
+    },
+    "totalPages": 29684,
+    "currentPage": 377
+  },
+  {
+    "id": "6235c6b3ae41c3dd25105001",
+    "to": 15,
+    "from": 27,
+    "store": {
+      "city": "Sutton",
+      "name": "Allison",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b3e77410546d6f9bdd"
+    },
+    "totale": 158895,
+    "products": {
+      "sku": 3234,
+      "name": "Weaver",
+      "salePrice": 89.24
+    },
+    "totalPages": 25858,
+    "currentPage": 115
+  },
+  {
+    "id": "6235c6b375b2419ea1042e3b",
+    "to": 15,
+    "from": 29,
+    "store": {
+      "city": "Crenshaw",
+      "name": "Kennedy",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b31d560d2ec2f03772"
+    },
+    "totale": 290253,
+    "products": {
+      "sku": 8953,
+      "name": "Craft",
+      "salePrice": 40.35
+    },
+    "totalPages": 14846,
+    "currentPage": 484
+  },
+  {
+    "id": "6235c6b3f5b15433f70ad6e6",
+    "to": 24,
+    "from": 17,
+    "store": {
+      "city": "Norfolk",
+      "name": "Gregory",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b371a878d9e3831ddd"
+    },
+    "totale": 67881,
+    "products": {
+      "sku": 6695,
+      "name": "Riggs",
+      "salePrice": 81.88
+    },
+    "totalPages": 7866,
+    "currentPage": 644
+  },
+  {
+    "id": "6235c6b32fc05212d901c1d3",
+    "to": 23,
+    "from": 10,
+    "store": {
+      "city": "Duryea",
+      "name": "Thomas",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b3eb58bc46dc6066ba"
+    },
+    "totale": 69253,
+    "products": {
+      "sku": 4273,
+      "name": "Valentine",
+      "salePrice": 11.05
+    },
+    "totalPages": 35616,
+    "currentPage": 616
+  },
+  {
+    "id": "6235c6b3296f1cad506e21b9",
+    "to": 12,
+    "from": 16,
+    "store": {
+      "city": "Bodega",
+      "name": "Christian",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b3c3dd0af175b98dd6"
+    },
+    "totale": 129720,
+    "products": {
+      "sku": 7476,
+      "name": "Dunn",
+      "salePrice": 68.36
+    },
+    "totalPages": 26321,
+    "currentPage": 196
+  },
+  {
+    "id": "6235c6b3c2550d5c55a7d0b6",
+    "to": 20,
+    "from": 14,
+    "store": {
+      "city": "Greensburg",
+      "name": "Conley",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b3d329212621413af8"
+    },
+    "totale": 220070,
+    "products": {
+      "sku": 7082,
+      "name": "Holman",
+      "salePrice": 34.54
+    },
+    "totalPages": 5300,
+    "currentPage": 688
+  },
+  {
+    "id": "6235c6b3dc8a79c1a8d911d3",
+    "to": 30,
+    "from": 10,
+    "store": {
+      "city": "Roy",
+      "name": "Olson",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b3b1cffe4e49f2719d"
+    },
+    "totale": 237320,
+    "products": {
+      "sku": 4052,
+      "name": "James",
+      "salePrice": 62.26
+    },
+    "totalPages": 1737,
+    "currentPage": 54
+  },
+  {
+    "id": "6235c6b3424f404296c7b90d",
+    "to": 23,
+    "from": 28,
+    "store": {
+      "city": "Dexter",
+      "name": "Pollard",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b3c6a29ec76cd64aef"
+    },
+    "totale": 19175,
+    "products": {
+      "sku": 5082,
+      "name": "Cannon",
+      "salePrice": 59.87
+    },
+    "totalPages": 29778,
+    "currentPage": 786
+  },
+  {
+    "id": "6235c6b3253473a054554496",
+    "to": 27,
+    "from": 20,
+    "store": {
+      "city": "Eureka",
+      "name": "Villarreal",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b3ee484bb3d2a73717"
+    },
+    "totale": 72016,
+    "products": {
+      "sku": 2036,
+      "name": "Morrow",
+      "salePrice": 14.47
+    },
+    "totalPages": 7753,
+    "currentPage": 751
+  },
+  {
+    "id": "6235c6b361b5705bacc2456c",
+    "to": 14,
+    "from": 8,
+    "store": {
+      "city": "Gadsden",
+      "name": "Wilkerson",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b3ff57b4b7ea7488c8"
+    },
+    "totale": 200186,
+    "products": {
+      "sku": 4909,
+      "name": "Rogers",
+      "salePrice": 43.65
+    },
+    "totalPages": 23306,
+    "currentPage": 758
+  },
+  {
+    "id": "6235c6b3f24d26be169761c9",
+    "to": 23,
+    "from": 22,
+    "store": {
+      "city": "Broadlands",
+      "name": "Stephens",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b3c9f92617970ffd71"
+    },
+    "totale": 125542,
+    "products": {
+      "sku": 1569,
+      "name": "Fox",
+      "salePrice": 72.34
+    },
+    "totalPages": 29808,
+    "currentPage": 673
+  },
+  {
+    "id": "6235c6b301d3897a657b6ab5",
+    "to": 10,
+    "from": 23,
+    "store": {
+      "city": "Marysville",
+      "name": "Middleton",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b32e5ac8960365b82c"
+    },
+    "totale": 13851,
+    "products": {
+      "sku": 7538,
+      "name": "Hyde",
+      "salePrice": 3.03
+    },
+    "totalPages": 24115,
+    "currentPage": 596
+  },
+  {
+    "id": "6235c6b3cb3b9c9b6a1bf0a5",
+    "to": 10,
+    "from": 9,
+    "store": {
+      "city": "Macdona",
+      "name": "Frost",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b3293708b69f9748f9"
+    },
+    "totale": 97751,
+    "products": {
+      "sku": 6578,
+      "name": "Perry",
+      "salePrice": 66.61
+    },
+    "totalPages": 8377,
+    "currentPage": 143
+  },
+  {
+    "id": "6235c6b3ed2bef9e9f282f14",
+    "to": 23,
+    "from": 20,
+    "store": {
+      "city": "Tuttle",
+      "name": "Mason",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b3c8b7f410c6eb3a6e"
+    },
+    "totale": 225175,
+    "products": {
+      "sku": 6120,
+      "name": "Mann",
+      "salePrice": 19.37
+    },
+    "totalPages": 3764,
+    "currentPage": 203
+  },
+  {
+    "id": "6235c6b372cc720a3680f046",
+    "to": 23,
+    "from": 21,
+    "store": {
+      "city": "Lutsen",
+      "name": "Yang",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b33ad7c209c815c232"
+    },
+    "totale": 106779,
+    "products": {
+      "sku": 7736,
+      "name": "Peters",
+      "salePrice": 16.71
+    },
+    "totalPages": 7632,
+    "currentPage": 810
+  },
+  {
+    "id": "6235c6b3e20f9ff49bd5b893",
+    "to": 11,
+    "from": 27,
+    "store": {
+      "city": "Cuylerville",
+      "name": "Oneil",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b354fec7caacabaa80"
+    },
+    "totale": 39781,
+    "products": {
+      "sku": 4068,
+      "name": "Mclean",
+      "salePrice": 47.33
+    },
+    "totalPages": 26451,
+    "currentPage": 715
+  },
+  {
+    "id": "6235c6b3a574359c9494703a",
+    "to": 23,
+    "from": 3,
+    "store": {
+      "city": "Tyro",
+      "name": "Moody",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b34f16278c2e8dba4d"
+    },
+    "totale": 203953,
+    "products": {
+      "sku": 4513,
+      "name": "Castaneda",
+      "salePrice": 23.62
+    },
+    "totalPages": 13936,
+    "currentPage": 734
+  },
+  {
+    "id": "6235c6b39cf66c60fad1b374",
+    "to": 17,
+    "from": 18,
+    "store": {
+      "city": "Iola",
+      "name": "Holloway",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b3024194ce598092e0"
+    },
+    "totale": 280877,
+    "products": {
+      "sku": 6067,
+      "name": "Schneider",
+      "salePrice": 3.58
+    },
+    "totalPages": 12128,
+    "currentPage": 979
+  },
+  {
+    "id": "6235c6b3fc9e18ffe886805a",
+    "to": 29,
+    "from": 16,
+    "store": {
+      "city": "Logan",
+      "name": "Lane",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b3c0b02112d5f6eb32"
+    },
+    "totale": 195574,
+    "products": {
+      "sku": 4860,
+      "name": "Kim",
+      "salePrice": 43.25
+    },
+    "totalPages": 23778,
+    "currentPage": 459
+  },
+  {
+    "id": "6235c6b38f4fa68d812b1f6a",
+    "to": 11,
+    "from": 7,
+    "store": {
+      "city": "Zeba",
+      "name": "Orr",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b362ad900f6827cd3a"
+    },
+    "totale": 256551,
+    "products": {
+      "sku": 6418,
+      "name": "Burnett",
+      "salePrice": 44.49
+    },
+    "totalPages": 23185,
+    "currentPage": 264
+  },
+  {
+    "id": "6235c6b3a0770b4248b97016",
+    "to": 30,
+    "from": 9,
+    "store": {
+      "city": "Oberlin",
+      "name": "Morgan",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b3011836fda798da45"
+    },
+    "totale": 225647,
+    "products": {
+      "sku": 4444,
+      "name": "Hooper",
+      "salePrice": 2.96
+    },
+    "totalPages": 6747,
+    "currentPage": 279
+  },
+  {
+    "id": "6235c6b3e40cbafafbeb4615",
+    "to": 17,
+    "from": 23,
+    "store": {
+      "city": "Riverton",
+      "name": "Sargent",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b37a57dc4df11bd79a"
+    },
+    "totale": 91918,
+    "products": {
+      "sku": 1076,
+      "name": "Padilla",
+      "salePrice": 58.87
+    },
+    "totalPages": 35670,
+    "currentPage": 857
+  },
+  {
+    "id": "6235c6b336686a16a46de1ab",
+    "to": 17,
+    "from": 2,
+    "store": {
+      "city": "Nicholson",
+      "name": "Good",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b3f0549462ccb6515f"
+    },
+    "totale": 86550,
+    "products": {
+      "sku": 8354,
+      "name": "Kline",
+      "salePrice": 41.83
+    },
+    "totalPages": 27535,
+    "currentPage": 311
+  },
+  {
+    "id": "6235c6b3882e11c4fe58b4dc",
+    "to": 27,
+    "from": 4,
+    "store": {
+      "city": "Bakersville",
+      "name": "Bright",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b3837d2c778e515ef6"
+    },
+    "totale": 187287,
+    "products": {
+      "sku": 8748,
+      "name": "Holt",
+      "salePrice": 56.54
+    },
+    "totalPages": 25155,
+    "currentPage": 252
+  },
+  {
+    "id": "6235c6b3836c7a5fdb11ff65",
+    "to": 13,
+    "from": 14,
+    "store": {
+      "city": "Taft",
+      "name": "Reese",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b3d9cb15f4c88ef08e"
+    },
+    "totale": 56367,
+    "products": {
+      "sku": 3604,
+      "name": "Haynes",
+      "salePrice": 29.36
+    },
+    "totalPages": 37763,
+    "currentPage": 560
+  },
+  {
+    "id": "6235c6b37db75ef17e32e2b8",
+    "to": 15,
+    "from": 8,
+    "store": {
+      "city": "Caroleen",
+      "name": "Dillard",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b3aeabf5cb2413fa1a"
+    },
+    "totale": 59247,
+    "products": {
+      "sku": 6616,
+      "name": "Osborn",
+      "salePrice": 76.04
+    },
+    "totalPages": 11696,
+    "currentPage": 14
+  },
+  {
+    "id": "6235c6b38cdddc0a64a7e767",
+    "to": 15,
+    "from": 13,
+    "store": {
+      "city": "Johnsonburg",
+      "name": "Todd",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b3ca81a5fbfe2a53ec"
+    },
+    "totale": 26230,
+    "products": {
+      "sku": 6485,
+      "name": "Norton",
+      "salePrice": 69.51
+    },
+    "totalPages": 9444,
+    "currentPage": 829
+  },
+  {
+    "id": "6235c6b3c19d433b812d8c17",
+    "to": 28,
+    "from": 27,
+    "store": {
+      "city": "Walland",
+      "name": "Roberts",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b3028fa7273092e0ef"
+    },
+    "totale": 103546,
+    "products": {
+      "sku": 3350,
+      "name": "Roman",
+      "salePrice": 81.38
+    },
+    "totalPages": 31810,
+    "currentPage": 866
+  },
+  {
+    "id": "6235c6b3709dd1f805c14f79",
+    "to": 29,
+    "from": 24,
+    "store": {
+      "city": "Lowgap",
+      "name": "Haney",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b35994119440de6996"
+    },
+    "totale": 188230,
+    "products": {
+      "sku": 3735,
+      "name": "Hatfield",
+      "salePrice": 18.73
+    },
+    "totalPages": 412,
+    "currentPage": 841
+  },
+  {
+    "id": "6235c6b3eb33d8520853d613",
+    "to": 25,
+    "from": 20,
+    "store": {
+      "city": "Craig",
+      "name": "Douglas",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b353da7d8e529b4520"
+    },
+    "totale": 103363,
+    "products": {
+      "sku": 2520,
+      "name": "Crosby",
+      "salePrice": 47.97
+    },
+    "totalPages": 19137,
+    "currentPage": 101
+  },
+  {
+    "id": "6235c6b3d786af5584621a2e",
+    "to": 10,
+    "from": 15,
+    "store": {
+      "city": "Watrous",
+      "name": "Ferguson",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b30ae53ff6a324ed4b"
+    },
+    "totale": 68869,
+    "products": {
+      "sku": 4110,
+      "name": "Lowe",
+      "salePrice": 59.18
+    },
+    "totalPages": 20634,
+    "currentPage": 387
+  },
+  {
+    "id": "6235c6b3758f561b796d19f1",
+    "to": 30,
+    "from": 3,
+    "store": {
+      "city": "Lorraine",
+      "name": "Clarke",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b3d81cacfec3a1b0f6"
+    },
+    "totale": 119135,
+    "products": {
+      "sku": 4000,
+      "name": "Pope",
+      "salePrice": 56.05
+    },
+    "totalPages": 17374,
+    "currentPage": 398
+  },
+  {
+    "id": "6235c6b35e891c682ae6cce0",
+    "to": 26,
+    "from": 28,
+    "store": {
+      "city": "Bridgetown",
+      "name": "Bradshaw",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b3c464056ab086e744"
+    },
+    "totale": 41494,
+    "products": {
+      "sku": 6727,
+      "name": "Watson",
+      "salePrice": 45.81
+    },
+    "totalPages": 9533,
+    "currentPage": 187
+  },
+  {
+    "id": "6235c6b336ce1c21e12e9851",
+    "to": 21,
+    "from": 20,
+    "store": {
+      "city": "Centerville",
+      "name": "Ewing",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b34e336df937488175"
+    },
+    "totale": 164129,
+    "products": {
+      "sku": 1275,
+      "name": "Bond",
+      "salePrice": 53.53
+    },
+    "totalPages": 604,
+    "currentPage": 532
+  },
+  {
+    "id": "6235c6b36927882ec8bac1a1",
+    "to": 25,
+    "from": 7,
+    "store": {
+      "city": "Nord",
+      "name": "Preston",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b302c936055ba3a174"
+    },
+    "totale": 141877,
+    "products": {
+      "sku": 1221,
+      "name": "Keith",
+      "salePrice": 81.02
+    },
+    "totalPages": 15527,
+    "currentPage": 35
+  },
+  {
+    "id": "6235c6b3d4621674e04d5c64",
+    "to": 25,
+    "from": 21,
+    "store": {
+      "city": "Caspar",
+      "name": "Greer",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b35741928863aaacef"
+    },
+    "totale": 4634,
+    "products": {
+      "sku": 4974,
+      "name": "Lambert",
+      "salePrice": 44.34
+    },
+    "totalPages": 509,
+    "currentPage": 643
+  },
+  {
+    "id": "6235c6b36c278eb0d4683d4e",
+    "to": 27,
+    "from": 5,
+    "store": {
+      "city": "Biehle",
+      "name": "Finley",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b37a8708dc329198d3"
+    },
+    "totale": 186411,
+    "products": {
+      "sku": 7423,
+      "name": "Paul",
+      "salePrice": 33.05
+    },
+    "totalPages": 37432,
+    "currentPage": 223
+  },
+  {
+    "id": "6235c6b34172dee6a73886d4",
+    "to": 24,
+    "from": 22,
+    "store": {
+      "city": "Brenton",
+      "name": "Davis",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b35a86eb3174bf110c"
+    },
+    "totale": 126630,
+    "products": {
+      "sku": 4053,
+      "name": "Cook",
+      "salePrice": 18.52
+    },
+    "totalPages": 38714,
+    "currentPage": 68
+  },
+  {
+    "id": "6235c6b3eb6fb8461dca3da4",
+    "to": 29,
+    "from": 21,
+    "store": {
+      "city": "Kohatk",
+      "name": "Kirk",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b3a582e259902b7530"
+    },
+    "totale": 273402,
+    "products": {
+      "sku": 6670,
+      "name": "Mercer",
+      "salePrice": 12.82
+    },
+    "totalPages": 39520,
+    "currentPage": 837
+  },
+  {
+    "id": "6235c6b3185bee0265889c3a",
+    "to": 19,
+    "from": 26,
+    "store": {
+      "city": "Rodman",
+      "name": "Shaffer",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b3f5353237ea8c280a"
+    },
+    "totale": 250959,
+    "products": {
+      "sku": 2322,
+      "name": "Howell",
+      "salePrice": 88.72
+    },
+    "totalPages": 35538,
+    "currentPage": 325
+  },
+  {
+    "id": "6235c6b35470f2b4566b182c",
+    "to": 30,
+    "from": 16,
+    "store": {
+      "city": "Southview",
+      "name": "York",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b356e66f9542b4781f"
+    },
+    "totale": 17353,
+    "products": {
+      "sku": 5100,
+      "name": "Dawson",
+      "salePrice": 8.75
+    },
+    "totalPages": 6870,
+    "currentPage": 97
+  },
+  {
+    "id": "6235c6b37003f2bc6389172e",
+    "to": 11,
+    "from": 30,
+    "store": {
+      "city": "Cherokee",
+      "name": "Mcpherson",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b373f69715c61a0555"
+    },
+    "totale": 244275,
+    "products": {
+      "sku": 1374,
+      "name": "Whitaker",
+      "salePrice": 32.23
+    },
+    "totalPages": 10301,
+    "currentPage": 409
+  },
+  {
+    "id": "6235c6b36499e517e4302507",
+    "to": 21,
+    "from": 6,
+    "store": {
+      "city": "Konterra",
+      "name": "Oneill",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b34c983066117b02d9"
+    },
+    "totale": 218217,
+    "products": {
+      "sku": 8458,
+      "name": "Prince",
+      "salePrice": 39.73
+    },
+    "totalPages": 603,
+    "currentPage": 847
+  },
+  {
+    "id": "6235c6b36a89f70679f789e6",
+    "to": 28,
+    "from": 23,
+    "store": {
+      "city": "Tooleville",
+      "name": "Joyner",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b381d34aaacff29e89"
+    },
+    "totale": 265435,
+    "products": {
+      "sku": 1323,
+      "name": "Wells",
+      "salePrice": 23.77
+    },
+    "totalPages": 19743,
+    "currentPage": 600
+  },
+  {
+    "id": "6235c6b365ffc14c43e5b670",
+    "to": 19,
+    "from": 9,
+    "store": {
+      "city": "Enetai",
+      "name": "Snow",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b374e6e782bfae9806"
+    },
+    "totale": 12371,
+    "products": {
+      "sku": 2671,
+      "name": "Cruz",
+      "salePrice": 47.76
+    },
+    "totalPages": 18351,
+    "currentPage": 475
+  },
+  {
+    "id": "6235c6b3239a10008eff5794",
+    "to": 12,
+    "from": 1,
+    "store": {
+      "city": "Choctaw",
+      "name": "Hutchinson",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b3edbafb0226b63817"
+    },
+    "totale": 278999,
+    "products": {
+      "sku": 5554,
+      "name": "Neal",
+      "salePrice": 23.83
+    },
+    "totalPages": 3835,
+    "currentPage": 359
+  },
+  {
+    "id": "6235c6b3701d19df884a15dc",
+    "to": 23,
+    "from": 23,
+    "store": {
+      "city": "Calvary",
+      "name": "Shields",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b3154792a443f5ba78"
+    },
+    "totale": 264538,
+    "products": {
+      "sku": 6025,
+      "name": "Richmond",
+      "salePrice": 22.31
+    },
+    "totalPages": 10301,
+    "currentPage": 194
+  },
+  {
+    "id": "6235c6b3231762893ce7d0d1",
+    "to": 15,
+    "from": 2,
+    "store": {
+      "city": "Verdi",
+      "name": "Hampton",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b38820e59971c3078c"
+    },
+    "totale": 64171,
+    "products": {
+      "sku": 1549,
+      "name": "Buchanan",
+      "salePrice": 29.59
+    },
+    "totalPages": 28419,
+    "currentPage": 189
+  },
+  {
+    "id": "6235c6b3e7a0bb0e2621dcc4",
+    "to": 14,
+    "from": 24,
+    "store": {
+      "city": "Dunnavant",
+      "name": "Oliver",
+      "storeTyp": [
+        "Big_Box_Store"
+      ],
+      "store_id": "6235c6b39902076f030c7627"
+    },
+    "totale": 93159,
+    "products": {
+      "sku": 8156,
+      "name": "Ferrell",
+      "salePrice": 73.92
+    },
+    "totalPages": 32614,
+    "currentPage": 584
+  },
+  {
+    "id": "6235c6b32429035a6f3b0f7e",
+    "to": 25,
+    "from": 10,
+    "store": {
+      "city": "Odessa",
+      "name": "Delacruz",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b325f84aada2cf159d"
+    },
+    "totale": 244794,
+    "products": {
+      "sku": 2433,
+      "name": "Wilcox",
+      "salePrice": 32.51
+    },
+    "totalPages": 28139,
+    "currentPage": 612
+  },
+  {
+    "id": "6235c6b390120259d614e552",
+    "to": 14,
+    "from": 29,
+    "store": {
+      "city": "Marne",
+      "name": "Compton",
+      "storeTyp": [
+        "Big Box"
+      ],
+      "store_id": "6235c6b3d4d0b1c90e3c5957"
+    },
+    "totale": 32843,
+    "products": {
+      "sku": 1712,
+      "name": "Chen",
+      "salePrice": 62.98
+    },
+    "totalPages": 38375,
+    "currentPage": 735
+  },
+  {
+    "id": "6235c6b3e0b97213bd981d5e",
+    "to": 20,
+    "from": 1,
+    "store": {
+      "city": "Clara",
+      "name": "Warren",
+      "storeTyp": [
+        "Express Kiosk"
+      ],
+      "store_id": "6235c6b33b790903f99c5509"
+    },
+    "totale": 252337,
+    "products": {
+      "sku": 5658,
+      "name": "Hamilton",
+      "salePrice": 18.85
+    },
+    "totalPages": 24996,
+    "currentPage": 431
+  }
+]
