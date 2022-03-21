@@ -13,7 +13,7 @@ var unirest = require("unirest")
  for (var i = 0;i<10;i++){
     console.log(res.body[i])
 }
-// filter seulement les clients dont le nom commence par la lettre M
+// filter seulement les produits dont le nom commence par la lettre M
 
 function fil() {
     for (var i=0 ;i<100 ;i++){
